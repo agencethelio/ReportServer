@@ -105,7 +105,7 @@ Function Publish-ReportsWithConfigFile{
     $DestinationUri =$jsonConfig.destination
     $SourceUri = $jsonConfig.source
 
-    foreach($item in $jsonConfig.rapports)
+    foreach($item in $jsonConfig.reports)
     { 
         # $TypePath = $item[0]
         # $SourcePath = $item[1]
