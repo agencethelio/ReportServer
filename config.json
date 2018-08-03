@@ -1,0 +1,22 @@
+{
+    "source": "<URL source server>", 
+    "destination": "<URL destination server", 
+    "reports": [
+        [
+            "<Import type :  URL or FILE>", 
+            "<Original path>",
+            "<Destionation path>"
+        ],
+        [
+            "<Import type :  URL or FILE>", 
+            "<Original path>",
+            "<Destionation path>"
+        ],
+        [
+            "<Import type :  URL or FILE>", 
+            "<Original path>",
+            "<Destionation path>"
+        ]
+    ]
+ } 
+ 
